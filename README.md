@@ -42,12 +42,9 @@
 
 ![牌桌实时对战](screenshots/531317428-eceb4d24-3fbf-4249-baf9-3ce7315f9ec8.png)
 
+![牌桌实时对战](screenshots/531317422-f20a1633-64d0-4e3d-befc-08bc7e848500.png)
 
 
-<img width="1280" height="720" alt="wanfa-fanti" src="https://github.com/user-attachments/assets/eceb4d24-3fbf-4249-baf9-3ce7315f9ec8" />
-<img width="1280" height="720" alt="fangjian-fanti" src="https://github.com/user-attachments/assets/f20a1633-64d0-4e3d-befc-08bc7e848500" />
-<img width="1280" height="720" alt="dating-yingwen" src="https://github.com/user-attachments/assets/fe86ff5f-369b-4e83-b985-d6a3f6a819b2" />
----
 
 ## 🎮 核心功能与玩法
 
