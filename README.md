@@ -1,15 +1,26 @@
-# ♠️ 完整德州扑克源码 |德州源码| 金币场+俱乐部 | 支持iOS/Android
-# Real-time Multiplayer Poker Framework | 实时多人扑克系统
+# 🃏 德州扑克源码 | 德州俱乐部源码 | 德州扑克框架
 
-A real-time multiplayer poker framework designed for scalable backend systems and interactive gameplay.  
-一个支持高并发与实时交互的多人扑克游戏框架。
+**德州源码 · 德州游戏源码 · 德州联盟源码 · 德州朋友局源码**  
+实时多人**德州扑克**高性能框架（C++ 服务端 + Unity/Lua 客户端），支持金币大厅 + 俱乐部/联盟双模式
 
-> **关键词**：`德州扑克源码` `C++扑克服务器` `Lua客户端` `金币大厅` `俱乐部源码` `双语文档` `商业授权`
+**Texas Hold'em Multiplayer Poker Framework** | **Real-time Poker Game Engine** | C++ + Unity Ready
 
-[![Platform](https://img.shields.io/badge/平台-iOS%20%7C%20Android%20%7C%20PC-blue.svg)]()
-[![Tech](https://img.shields.io/badge/服务端-C%2B%2B-red.svg)]()
-[![Tech](https://img.shields.io/badge/客户端-Unity%20%2B%20Lua-brightgreen.svg)]()
-[![Status](https://img.shields.io/badge/状态-成熟可部署-brightgreen.svg)]()
+[![Stars](https://img.shields.io/github/stars/pokerdeveloper/real-time-multiplayer-poker-framework.svg)](https://github.com/pokerdeveloper/real-time-multiplayer-poker-framework/stargazers)
+[![Forks](https://img.shields.io/github/forks/pokerdeveloper/real-time-multiplayer-poker-framework.svg)](https://github.com/pokerdeveloper/real-time-multiplayer-poker-framework/network/members)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+---
+
+## ✨ 项目核心亮点
+
+- **高性能服务端**：C++ 实现服务器权威架构，低延迟、高并发
+- **跨平台客户端**：Unity / Lua 客户端，支持 iOS / Android / PC，多语言（简中/繁中/英文）
+- **完整玩法支持**：经典德州、金币大厅、俱乐部/联盟、私人局、朋友局
+- **赛事系统**：支持 SNG、MTT 锦标赛等多种模式
+- **实用功能**：AI Bot、多语言支持、反作弊机制、后台管理
+- **易于扩展**：模块化设计，适合学习或快速搭建德州扑克平台
+
+> **⚠️ 重要声明**：本项目**仅供学习和研究使用**，严格禁止用于任何真实货币赌博。商业使用请自行遵守当地法律法规，作者不承担任何法律责任。
 
 ## 🎯 产品核心价值
 
@@ -25,6 +36,13 @@ A real-time multiplayer poker framework designed for scalable backend systems an
 ---
 
 ## 📸 游戏截图
+
+
+![德州扑克游戏大厅](screenshots/531317404-fe86ff5f-369b-4e83-b985-d6a3f6a819b2.png)
+
+![牌桌实时对战](screenshots/531317428-eceb4d24-3fbf-4249-baf9-3ce7315f9ec8.png)
+
+
 
 <img width="1280" height="720" alt="wanfa-fanti" src="https://github.com/user-attachments/assets/eceb4d24-3fbf-4249-baf9-3ce7315f9ec8" />
 <img width="1280" height="720" alt="fangjian-fanti" src="https://github.com/user-attachments/assets/f20a1633-64d0-4e3d-befc-08bc7e848500" />
@@ -64,13 +82,6 @@ A real-time multiplayer poker framework designed for scalable backend systems an
 3.  **全球化准备**：内置多语言，可快速出海
 4.  **服务保障**：提供 1 年技术答疑与 Bug 修复支持
 
----
-
-## 🔍 关于本仓库
-
-> 本仓库为 **产品展示与技术预览**。完整的源码（客户端+服务端+数据库）因体积和商业授权原因，**不在此公开**。  
-> 当前展示的代码文件属于**历史片段**，与完整系统无关。  
-> **如需查看完整代码结构、进行远程演示或获取报价，请联系我们。**
 
 ---
 
@@ -85,38 +96,7 @@ A real-time multiplayer poker framework designed for scalable backend systems an
 *   ✅ 远程测试环境地址（可亲自体验）
 *   ✅ 详细报价与授权方案（支持分期/担保交易）
 
-## 🎮 Gameplay Experience | 游戏体验
 
-Simulate a real poker table:
-
-- Multi-player real-time gameplay ｜ 多人实时对战  
-- Room-based interaction ｜ 房间模式  
-- Smooth state synchronization ｜ 实时同步  
-
----
-
-## 🚀 Core Features | 核心功能
-
-- Multiplayer poker game engine  
-- Room & session management  
-- Real-time action handling  
-- Modular game logic
-## 🧩 System Architecture | 系统架构
-
-- Server-authoritative model  
-- Event-driven game logic  
-- Scalable backend system  
-- Real-time synchronization  
-
----
-
-## 🎯 Use Cases | 使用场景
-
-- Multiplayer game development  
-- Poker simulation systems  
-- Game backend architecture learning  
-
----
 
 ## 🌍 Multi-language Support | 多语言支持
 
@@ -124,20 +104,6 @@ Simulate a real poker table:
 - 简体中文  
 - 繁體中文  
 
----
-
-## ⚠️ Disclaimer | 免责声明
-
-- For educational and technical purposes only  
-- No real-money or gambling features  
-
----
-
-## 🌐 Professional
-
-This project focuses on multiplayer game architecture and system design.
-
-For advanced implementations or scalable systems, professional discussions are welcome.
 
 ## ❓ 常见问题
 
@@ -150,11 +116,9 @@ A：Unity 2019.4 LTS，可升级到更新版本。
 **Q：服务端性能如何？**  
 A：C++ 高并发架构，单服可支持 **2000+ 同时在线**。
 
-**Q：如何保障交易安全？**  
-A：支持**合同签署**、**远程演示验证**，并可走双方认可的担保流程。
 
-**Q：价格是多少？**  
-A：根据授权范围（非独家/独家、是否包含部署服务、技术支持年限）浮动，**请联系获取最新报价单**。
+
+
 
 ---
 
